@@ -1,0 +1,22 @@
+[
+    {
+        "title":"apple",
+        "photo":"https://organicmandya.com/cdn/shop/files/Apples_bf998dd2-0ee8-4880-9726-0723c6fbcff3.jpg?v=1721368465&width=1000",
+        "price": 100
+    },
+    {
+        "title":"banana",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKI7rTKn6z3FYKT9KSisXcWq5_jcPBImLf-Q&s",
+        "price": 150
+    },
+    {
+        "title":"kiwi",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6udOMVhJTk_0b3YpqdMIf545bJtqUjnQjw&s",
+        "price": 200
+    },
+    {
+        "title":"orange",
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFupNKCPNuC7CBG8lNv3fNuqwHVn3VhgFV_g&s",
+        "price": 250
+    }
+]
